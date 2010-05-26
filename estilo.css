@@ -2,3 +2,19 @@ img
 { 
 	border: none; 
 }
+
+#div_perfil
+{
+	float:left;
+}
+
+#div_resultados
+{
+	clear:both;
+}
+
+#div_rodape
+{
+	margin-top:100px;
+	text-align:center;
+}
