@@ -6,7 +6,6 @@ class Html
         foreach($array_entidades as $entidade)
         {
             echo "<option value=\"".$entidade->getId()."\">".$entidade->getNome()."</option> ";
-            echo $entidade->getNome();
         }
     }
 }
