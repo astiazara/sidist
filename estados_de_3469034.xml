@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="SHORT">
+<totalResultsCount>27</totalResultsCount>
+<geoname>
+<toponymName>Distrito Federal</toponymName>
+<name>Distrito Federal</name>
+<lat>-15.75</lat>
+<lng>-47.75</lng>
+<geonameId>3463504</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>1</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado da Bahia</toponymName>
+<name>Estado da Bahia</name>
+<lat>-12.0</lat>
+<lng>-42.0</lng>
+<geonameId>3471168</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>417</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado da Paraíba</toponymName>
+<name>Estado da Paraíba</name>
+<lat>-7.25</lat>
+<lng>-36.5</lng>
+<geonameId>3393098</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>223</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Alagoas</toponymName>
+<name>Estado de Alagoas</name>
+<lat>-9.0</lat>
+<lng>-36.0</lng>
+<geonameId>3408096</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>102</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Espírito Santo</toponymName>
+<name>Estado de Espírito Santo</name>
+<lat>-20.0</lat>
+<lng>-40.75</lng>
+<geonameId>3463930</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>78</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Goiás</toponymName>
+<name>Estado de Goiás</name>
+<lat>-15.5807107391621</lat>
+<lng>-49.63623046875</lng>
+<geonameId>3462372</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>246</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Mato Grosso</toponymName>
+<name>Estado de Mato Grosso</name>
+<lat>-13.0</lat>
+<lng>-56.0</lng>
+<geonameId>3457419</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>139</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Mato Grosso do Sul</toponymName>
+<name>Estado de Mato Grosso do Sul</name>
+<lat>-21.0</lat>
+<lng>-55.0</lng>
+<geonameId>3457415</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>77</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Minas Gerais</toponymName>
+<name>Estado de Minas Gerais</name>
+<lat>-18.0</lat>
+<lng>-44.0</lng>
+<geonameId>3457153</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>853</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Pernambuco</toponymName>
+<name>Estado de Pernambuco</name>
+<lat>-8.0</lat>
+<lng>-37.0</lng>
+<geonameId>3392268</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>184</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Rondônia</toponymName>
+<name>Estado de Rondônia</name>
+<lat>-11.0</lat>
+<lng>-63.0</lng>
+<geonameId>3924825</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>52</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Roraima</toponymName>
+<name>Estado de Roraima</name>
+<lat>1.0</lat>
+<lng>-61.0</lng>
+<geonameId>3662560</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>15</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Santa Catarina</toponymName>
+<name>Estado de Santa Catarina</name>
+<lat>-27.0</lat>
+<lng>-50.0</lng>
+<geonameId>3450387</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>293</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Sergipe</toponymName>
+<name>Estado de Sergipe</name>
+<lat>-10.5</lat>
+<lng>-37.5</lng>
+<geonameId>3447799</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>75</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de São Paulo</toponymName>
+<name>Estado de São Paulo</name>
+<lat>-22.0</lat>
+<lng>-49.0</lng>
+<geonameId>3448433</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>645</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado de Tocantins</toponymName>
+<name>Estado de Tocantins</name>
+<lat>-10.5</lat>
+<lng>-48.0</lng>
+<geonameId>3474575</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>139</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado do Acre</toponymName>
+<name>Estado do Acre</name>
+<lat>-9.0</lat>
+<lng>-70.0</lng>
+<geonameId>3665474</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>22</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado do Amapá</toponymName>
+<name>Estado do Amapá</name>
+<lat>1.0</lat>
+<lng>-52.0</lng>
+<geonameId>3407762</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>16</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado do Amazonas</toponymName>
+<name>Estado do Amazonas</name>
+<lat>-5.0</lat>
+<lng>-63.0</lng>
+<geonameId>3665361</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>62</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado do Ceará</toponymName>
+<name>Estado do Ceará</name>
+<lat>-5.0</lat>
+<lng>-40.0</lng>
+<geonameId>3402362</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>184</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado do Maranhão</toponymName>
+<name>Estado do Maranhão</name>
+<lat>-5.0</lat>
+<lng>-45.0</lng>
+<geonameId>3395443</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>217</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado do Parana</toponymName>
+<name>Estado do Parana</name>
+<lat>-24.0</lat>
+<lng>-51.0</lng>
+<geonameId>3455077</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>399</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado do Pará</toponymName>
+<name>Estado do Pará</name>
+<lat>-4.0</lat>
+<lng>-53.0</lng>
+<geonameId>3393129</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>143</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado do Piauí</toponymName>
+<name>Estado do Piauí</name>
+<lat>-7.0</lat>
+<lng>-43.0</lng>
+<geonameId>3392213</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>222</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado do Rio Grande do Norte</toponymName>
+<name>Estado do Rio Grande do Norte</name>
+<lat>-5.75</lat>
+<lng>-36.0</lng>
+<geonameId>3390290</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>167</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Estado do Rio Grande do Sul</toponymName>
+<name>Estado do Rio Grande do Sul</name>
+<lat>-30.0</lat>
+<lng>-54.0</lng>
+<geonameId>3451133</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>498</numberOfChildren>
+</geoname>
+<geoname>
+<toponymName>Rio de Janeiro</toponymName>
+<name>State of Rio de Janeiro</name>
+<lat>-22.0</lat>
+<lng>-42.5</lng>
+<geonameId>3451189</geonameId>
+<countryCode>BR</countryCode>
+<fcl>A</fcl>
+<fcode>ADM1</fcode>
+<numberOfChildren>92</numberOfChildren>
+</geoname>
+</geonames>

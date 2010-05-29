@@ -20,3 +20,9 @@ img
 	clear:both;
     margin:10px;
 }
+
+.ajax-loader
+{
+    vertical-align:middle;
+    visibility:hidden;
+}

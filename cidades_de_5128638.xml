@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<geonames style="SHORT">
+<totalResultsCount>63</totalResultsCount>
+<geoname>
+<toponymName>Albany County</toponymName>
+<name>Albany County</name>
+<lat>42.6000783</lat>
+<lng>-73.9662388</lng>
+<geonameId>5106841</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Allegany County</toponymName>
+<name>Allegany County</name>
+<lat>42.2506243</lat>
+<lng>-78.0330619</lng>
+<geonameId>5106997</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Bronx</toponymName>
+<name>Bronx County</name>
+<lat>40.8273195113456</lat>
+<lng>-73.9235687255859</lng>
+<geonameId>5110253</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Brooklyn</toponymName>
+<name>Brooklyn</name>
+<lat>40.6501038</lat>
+<lng>-73.9495823</lng>
+<geonameId>5110302</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Broome County</toponymName>
+<name>Broome County</name>
+<lat>42.2506314</lat>
+<lng>-75.8329722</lng>
+<geonameId>5110365</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Cattaraugus County</toponymName>
+<name>Cattaraugus County</name>
+<lat>42.2667306</lat>
+<lng>-78.6830853</lng>
+<geonameId>5111846</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Cayuga County</toponymName>
+<name>Cayuga County</name>
+<lat>42.9667327</lat>
+<lng>-76.5829983</lng>
+<geonameId>5111868</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Chautauqua County</toponymName>
+<name>Chautauqua County</name>
+<lat>42.2506137</lat>
+<lng>-79.3997685</lng>
+<geonameId>5112358</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Chemung County</toponymName>
+<name>Chemung County</name>
+<lat>42.1500746</lat>
+<lng>-76.7663426</lng>
+<geonameId>5112392</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Chenango County</toponymName>
+<name>Chenango County</name>
+<lat>42.46674</lat>
+<lng>-75.5829625</lng>
+<geonameId>5112398</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Clinton County</toponymName>
+<name>Clinton County</name>
+<lat>44.7333743</lat>
+<lng>-73.6829184</lng>
+<geonameId>5112977</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Columbia County</toponymName>
+<name>Columbia County</name>
+<lat>42.2506433</lat>
+<lng>-73.6495647</lng>
+<geonameId>5113366</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Cortland County</toponymName>
+<name>Cortland County</name>
+<lat>42.6000701</lat>
+<lng>-76.0829816</lng>
+<geonameId>5113792</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Delaware County</toponymName>
+<name>Delaware County</name>
+<lat>42.2000858</lat>
+<lng>-74.9662742</lng>
+<geonameId>5114810</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Dutchess County</toponymName>
+<name>Dutchess County</name>
+<lat>41.7667606</lat>
+<lng>-73.7329073</lng>
+<geonameId>5115580</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Erie County</toponymName>
+<name>Erie County</name>
+<lat>42.7667263</lat>
+<lng>-78.6664163</lng>
+<geonameId>5116642</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Essex County</toponymName>
+<name>Essex County</name>
+<lat>44.100053</lat>
+<lng>-73.8162489</lng>
+<geonameId>5116680</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Franklin County</toponymName>
+<name>Franklin County</name>
+<lat>44.6500547</lat>
+<lng>-74.3496082</lng>
+<geonameId>5117867</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Fulton County</toponymName>
+<name>Fulton County</name>
+<lat>43.1167383</lat>
+<lng>-74.4495837</lng>
+<geonameId>5118116</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Genesee County</toponymName>
+<name>Genesee County</name>
+<lat>43.0006156</lat>
+<lng>-78.1830721</lng>
+<geonameId>5118380</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Greene County</toponymName>
+<name>Greene County</name>
+<lat>42.2667528</lat>
+<lng>-74.2162533</lng>
+<geonameId>5119355</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Hamilton County</toponymName>
+<name>Hamilton County</name>
+<lat>43.6667331</lat>
+<lng>-74.5001569</lng>
+<geonameId>5119847</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Herkimer County</toponymName>
+<name>Herkimer County</name>
+<lat>43.4500685</lat>
+<lng>-74.9496038</lng>
+<geonameId>5120548</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Jefferson County</toponymName>
+<name>Jefferson County</name>
+<lat>44.0500589</lat>
+<lng>-75.8996501</lng>
+<geonameId>5122581</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Kings County</toponymName>
+<name>Kings County</name>
+<lat>40.650299136804</lat>
+<lng>-73.9476871490479</lng>
+<geonameId>6941775</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Lewis County</toponymName>
+<name>Lewis County</name>
+<lat>43.8000693</lat>
+<lng>-75.4829618</lng>
+<geonameId>5124290</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Livingston County</toponymName>
+<name>Livingston County</name>
+<lat>42.7333968</lat>
+<lng>-77.766389</lng>
+<geonameId>5124928</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Madison County</toponymName>
+<name>Madison County</name>
+<lat>42.9334013</lat>
+<lng>-75.6496268</lng>
+<geonameId>5125630</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Manhattan</toponymName>
+<name>Manhattan</name>
+<lat>40.7834345</lat>
+<lng>-73.9662495</lng>
+<geonameId>5128594</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Monroe County</toponymName>
+<name>Monroe County</name>
+<lat>43.150062</lat>
+<lng>-77.6830592</lng>
+<geonameId>5127305</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Montgomery County</toponymName>
+<name>Montgomery County</name>
+<lat>42.8834072</lat>
+<lng>-74.4162468</lng>
+<geonameId>5127354</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Nassau County</toponymName>
+<name>Nassau County</name>
+<lat>40.7506561</lat>
+<lng>-73.582905</lng>
+<geonameId>5128316</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Niagara County</toponymName>
+<name>Niagara County</name>
+<lat>43.1667235</lat>
+<lng>-78.7664236</lng>
+<geonameId>5128734</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Oneida County</toponymName>
+<name>Oneida County</name>
+<lat>43.2000695</lat>
+<lng>-75.4662863</lng>
+<geonameId>5129832</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Onondaga County</toponymName>
+<name>Onondaga County</name>
+<lat>43.0006216</lat>
+<lng>-76.1663138</lng>
+<geonameId>5129867</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Ontario County</toponymName>
+<name>Ontario County</name>
+<lat>42.8667314</lat>
+<lng>-77.316373</lng>
+<geonameId>5129891</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Orange County</toponymName>
+<name>Orange County</name>
+<lat>41.4167605</lat>
+<lng>-74.3162633</lng>
+<geonameId>5129915</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Orleans County</toponymName>
+<name>Orleans County</name>
+<lat>43.2506142</lat>
+<lng>-78.2330775</lng>
+<geonameId>5129995</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Oswego County</toponymName>
+<name>Oswego County</name>
+<lat>43.4500696</lat>
+<lng>-76.1496477</lng>
+<geonameId>5130076</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Otsego County</toponymName>
+<name>Otsego County</name>
+<lat>42.6334091</lat>
+<lng>-75.0162701</lng>
+<geonameId>5130111</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Putnam County</toponymName>
+<name>Putnam County</name>
+<lat>41.4334268</lat>
+<lng>-73.7329091</lng>
+<geonameId>5133166</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Queens County</toponymName>
+<name>Queens</name>
+<lat>40.700103</lat>
+<lng>-73.7995781</lng>
+<geonameId>5133268</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Rensselaer County</toponymName>
+<name>Rensselaer County</name>
+<lat>42.7167452</lat>
+<lng>-73.4828911</lng>
+<geonameId>5133668</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Richmond County</toponymName>
+<name>Richmond County</name>
+<lat>40.5834379</lat>
+<lng>-74.1495875</lng>
+<geonameId>5139559</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Rockland County</toponymName>
+<name>Rockland County</name>
+<lat>41.1667617</lat>
+<lng>-74.0495861</lng>
+<geonameId>5134189</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Saratoga County</toponymName>
+<name>Saratoga County</name>
+<lat>43.1000742</lat>
+<lng>-73.849567</lng>
+<geonameId>5136325</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Schenectady County</toponymName>
+<name>Schenectady County</name>
+<lat>42.8334089</lat>
+<lng>-74.0829049</lng>
+<geonameId>5136456</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Schoharie County</toponymName>
+<name>Schoharie County</name>
+<lat>42.5667427</lat>
+<lng>-74.4662542</lng>
+<geonameId>5136495</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Schuyler County</toponymName>
+<name>Schuyler County</name>
+<lat>42.4167393</lat>
+<lng>-76.8830148</lng>
+<geonameId>5137368</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Seneca County</toponymName>
+<name>Seneca County</name>
+<lat>42.7834023</lat>
+<lng>-76.8496795</lng>
+<geonameId>5137620</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>St. Lawrence County</toponymName>
+<name>St. Lawrence County</name>
+<lat>44.5006173</lat>
+<lng>-75.1163146</lng>
+<geonameId>5135484</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Steuben County</toponymName>
+<name>Steuben County</name>
+<lat>42.2667396</lat>
+<lng>-77.3330356</lng>
+<geonameId>5139656</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Suffolk County</toponymName>
+<name>Suffolk County</name>
+<lat>40.8667653</lat>
+<lng>-72.7995456</lng>
+<geonameId>5140076</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Sullivan County</toponymName>
+<name>Sullivan County</name>
+<lat>41.7000894</lat>
+<lng>-74.7829405</lng>
+<geonameId>5140135</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Tioga County</toponymName>
+<name>Tioga County</name>
+<lat>42.1667408</lat>
+<lng>-76.2663218</lng>
+<geonameId>5141045</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Tompkins County</toponymName>
+<name>Tompkins County</name>
+<lat>42.4500727</lat>
+<lng>-76.4663283</lng>
+<geonameId>5141153</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Ulster County</toponymName>
+<name>Ulster County</name>
+<lat>41.8834262</lat>
+<lng>-74.2501477</lng>
+<geonameId>5141784</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Warren County</toponymName>
+<name>Warren County</name>
+<lat>43.5500675</lat>
+<lng>-73.7995671</lng>
+<geonameId>5143268</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Washington County</toponymName>
+<name>Washington County</name>
+<lat>43.333406</lat>
+<lng>-73.4328893</lng>
+<geonameId>5143303</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Wayne County</toponymName>
+<name>Wayne County</name>
+<lat>43.1500645</lat>
+<lng>-77.0330262</lng>
+<geonameId>5143455</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Westchester County</toponymName>
+<name>Westchester County</name>
+<lat>41.1167627</lat>
+<lng>-73.799578</lng>
+<geonameId>5144050</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Wyoming County</toponymName>
+<name>Wyoming County</name>
+<lat>42.7000611</lat>
+<lng>-78.1997343</lng>
+<geonameId>5145163</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+<geoname>
+<toponymName>Yates County</toponymName>
+<name>Yates County</name>
+<lat>42.6167362</lat>
+<lng>-77.0996931</lng>
+<geonameId>5145190</geonameId>
+<countryCode>US</countryCode>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
+</geonames>
