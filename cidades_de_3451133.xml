@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <geonames style="SHORT">
-<totalResultsCount>498</totalResultsCount>
+<totalResultsCount>499</totalResultsCount>
+<geoname>
+<toponymName>Porto Alegre</toponymName>
+<name>Porto Alegre</name>
+<lat>-30.1146152816901</lat>
+<lng>-51.1639303485916</lng>
+<geonameId>6323571</geonameId>
+<countryCode>BR</countryCode>
+<countryName>Brazil</countryName>
+<fcl>A</fcl>
+<fcode>ADM2</fcode>
+</geoname>
 <geoname>
 <toponymName>Aceguá</toponymName>
 <name>Aceguá</name>

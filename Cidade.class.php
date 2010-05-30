@@ -6,7 +6,7 @@ class Cidade extends Entidade
     public function podarNome()
     {
         $this->setNome(eregi_replace(
-            '^(município de |cidade de )|( county| condado)$', 
+            '^(município |município de |cidade de )|( county| condado)$', 
             '', 
             $this->getNome() ));
     }

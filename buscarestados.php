@@ -11,7 +11,7 @@ State/Province:
     $idPais = (int)$_GET["idpais"];
     if($idPais < 1)
         return;
-    Html::imprimirOption(Estados::buscar($idPais));
+    Html::imprimirOption(Estados::buscar($idPais), 0);
     ?>
 
 </select>

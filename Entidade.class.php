@@ -4,6 +4,17 @@ class Entidade
     private $id = 0;
     private $nome = "";
     
+    public static function array_filter($array_entidades, $nome)
+    {
+        $resultado = array();
+        foreach($array_entidades as $entidade)
+        {
+            if(0 == strnatcasecmp($entidade->getNome(), $nome))
+                $resultado[count($resultado)] = $entidade;
+        }
+        return $resultado;
+    }
+    
     public static function compararPorNome($a, $b)
     {
         return strnatcasecmp($a->getNome(), $b->getNome());

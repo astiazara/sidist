@@ -11,7 +11,7 @@ City:
     $idEstado = (int)$_GET["idestado"];
     if($idEstado < 1)
         return;
-    Html::imprimirOption(Cidades::buscar($idEstado));
+    Html::imprimirOption(Cidades::buscar($idEstado), 0);
     ?>
 
 </select>

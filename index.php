@@ -1,11 +1,65 @@
 <?php
 require_once "Html.class.php";
 require_once "Paises.class.php";
+require_once "Estados.class.php";
+require_once "Cidades.class.php";
+include_once "libs/geolocation/geolocation.class.php";
+require_once "libs/snoopy/Snoopy.class.php";
+ 
+//Set geolocation cookie
+//if(!$_COOKIE["geolocation"] || true){
+  $geolocation = new geolocation(true);
+  $geolocation->setTimeout(2);
+  $geolocation->setIP($_SERVER['REMOTE_ADDR']);
+  list($visitorGeolocation) = $geolocation->getGeoLocation();
+  if ($visitorGeolocation['Status'] == 'OK') {
+    $data = base64_encode(serialize($visitorGeolocation));
+    setcookie("geolocation", $data, time()+3600*24); //set cookie for 1 day
+  }
+//}else{
+//  $visitorGeolocation = unserialize(base64_decode($_COOKIE["geolocation"]));
+//}
+/* Depuração 
+$visitorGeolocation["CountryName"] = "Brazil";
+$visitorGeolocation["RegionName"] = "Rio grande do sul";
+$visitorGeolocation["City"] = "porto alegre";
+*/
+echo "ip do visitante: " . $_SERVER['REMOTE_ADDR'] . "<br/>";
+var_dump($visitorGeolocation);
+
+// Procurando o país pelo IP.
+$paises = Paises::buscarTodos();
+$paisSelecionado = new Pais();
+$estadoSelecionado = new Estado();
+$cidadeSelecionada = new Cidade();
+if($visitorGeolocation["Status"] == "OK")
+{
+    $resultadoBusca = Pais::array_filter($paises, $visitorGeolocation["CountryName"]);
+    if(count($resultadoBusca) != 0)
+    {
+        $paisSelecionado = $resultadoBusca[0];
+        // Procurando o Estado.
+        $estados = Estados::buscar($paisSelecionado->getId());
+        $resultadoBusca = Estado::array_filter($estados, $visitorGeolocation["RegionName"]);
+        if(count($resultadoBusca) != 0)
+        {
+            $estadoSelecionado = $resultadoBusca[0];
+            // Procurando a cidade.
+            $cidades = Cidades::buscar($estadoSelecionado->getId());
+            $resultadoBusca = Cidade::array_filter($cidades, $visitorGeolocation["City"]);
+            if(count($resultadoBusca) != 0)
+            {
+                $cidadeSelecionada = $resultadoBusca[0];
+            }
+        }
+    }
+}
+
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
 <head>
 	<title>Health Web Pages Recomendation (Prototype)</title>
@@ -51,24 +105,30 @@ require_once "Paises.class.php";
         Country:
         <select id="select_pais" onchange="atualizarEstados()">
             <option value="0">(no selected)</option>
-            <?php
-                Html::imprimirOption(Paises::buscarTodos());
+            <?php 
+                Html::imprimirOption($paises, $paisSelecionado->getId());
             ?>
         </select>
         <br />
         <div id="div_estado" class="div_ajax">
             State/Province:
-            <select id="select_estado">
+            <select id="select_estado" onchange="atualizarCidades()">
                 <option value="0">(no selected)</option>
+                <?php 
+                    Html::imprimirOption($estados, $estadoSelecionado->getId());
+                ?>
             </select>
-            <img id="img_ajax_estado" src="ajax-loader.gif" class="ajax-loader"/>
+            <img id="img_ajax_estado" alt="Aguarde" src="ajax-loader.gif" class="ajax-loader"/>
         </div>
         <div id="div_cidade" class="div_ajax">
             City:
             <select id="select_cidade">
                 <option value="0">(no selected)</option>
+                <?php 
+                    Html::imprimirOption($cidades, $cidadeSelecionada->getId());
+                ?>
             </select>
-            <img id="img_ajax_cidade" src="ajax-loader.gif" class="ajax-loader"/>
+            <img id="img_ajax_cidade" alt="Aguarde" src="ajax-loader.gif" class="ajax-loader"/>
         </div>
 	</div>
 	

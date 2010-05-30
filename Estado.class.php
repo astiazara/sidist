@@ -6,7 +6,7 @@ class Estado extends Entidade
     public function podarNome()
     {
         $this->setNome(eregi_replace(
-            '^(estado da |estado de |estado do |departamento de |state of |province of )|( department| province)$', 
+            '^(estado da |estado de |estado do |departamento de |state of |province of |província de |província da |província do )|( department| province)$', 
             '', 
             $this->getNome() ));
     }
