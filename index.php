@@ -1,4 +1,5 @@
 <?php
+require_once "IpRealVisitante.class.php";
 require_once "Html.class.php";
 require_once "Paises.class.php";
 require_once "Estados.class.php";
@@ -10,7 +11,7 @@ require_once "libs/snoopy/Snoopy.class.php";
 if(!$_COOKIE["geolocation"]){
   $geolocation = new geolocation(true);
   $geolocation->setTimeout(2);
-  $geolocation->setIP($_SERVER['REMOTE_ADDR']);
+  $geolocation->setIP(IpRealVisitante::obter());
   list($visitorGeolocation) = $geolocation->getGeoLocation();
   if ($visitorGeolocation['Status'] == 'OK') {
     $data = base64_encode(serialize($visitorGeolocation));
@@ -23,9 +24,8 @@ if(!$_COOKIE["geolocation"]){
 $visitorGeolocation["CountryName"] = "Brazil";
 $visitorGeolocation["RegionName"] = "Rio grande do sul";
 $visitorGeolocation["City"] = "porto alegre";
-var_dump($visitorGeolocation);
 */
-$ipvisitante = "ip do visitante: " . $_SERVER['REMOTE_ADDR'] . "\n";
+//var_dump($visitorGeolocation);
 
 // Procurando o país pelo IP.
 $paises = Paises::buscarTodos();
@@ -141,11 +141,6 @@ if($visitorGeolocation["Status"] == "OK")
 	<div id="div_resultados">
 		<h3>Results</h3>
 	</div>
-
-    <!--
-    <?php
-    echo $ipvisitante;
-    ?>
-    -->
+	
 </body>
 </html>
