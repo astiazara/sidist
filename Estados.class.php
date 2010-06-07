@@ -27,7 +27,7 @@ class Estados
     
     public static function buscarRemoto($idPais)
     {
-        $arquivo = "http://ws.geonames.org/children?style=short&lang=en&geonameId=" . $idPais;
+        $arquivo = "http://ws.geonames.org/children?style=short&maxRows=1000&lang=en&geonameId=" . $idPais;
         $snoopy = new Snoopy;
         $snoopy->fetch($arquivo);
         $xml = simplexml_load_string($snoopy->results);

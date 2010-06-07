@@ -27,7 +27,7 @@ class Cidades
     
     public static function buscarRemoto($idEstado)
     {
-        $arquivo = "http://ws.geonames.org/children?style=short&lang=en&geonameId=" . $idEstado;
+        $arquivo = "http://ws.geonames.org/children?style=short&maxRows=1000&lang=en&geonameId=" . $idEstado;
         $snoopy = new Snoopy;
         $snoopy->fetch($arquivo);
         $xml = simplexml_load_string($snoopy->results);
