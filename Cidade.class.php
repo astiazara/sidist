@@ -1,14 +1,8 @@
 <?php
-require_once "Entidade.class.php";
+require_once "Localidade.class.php";
 
-class Cidade extends Entidade
+class Cidade extends Localidade
 {
-    public function podarNome()
-    {
-        $this->setNome(eregi_replace(
-            '^(município |município de |cidade de )|( county| condado)$', 
-            '', 
-            $this->getNome() ));
-    }
+
 }
 ?>

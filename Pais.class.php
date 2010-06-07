@@ -1,7 +1,7 @@
 <?php
-require_once "Entidade.class.php";
+require_once "Localidade.class.php";
 
-class Pais extends Entidade
+class Pais extends Localidade
 {
 
 }
