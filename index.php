@@ -70,7 +70,7 @@ if($visitorGeolocation["Status"] == "OK")
 </head>
 
 <body>
-	<h2>Health Web Pages Recomendation</h2>
+	<h2>Health Web Pages Recommendation</h2>
 	<p>Protótipo desenvolvido para a disciplina de Sistemas de Informação Distribuídos.</p>
 	<div id="div_perfil">
 		<h3>Your Profile</h3>
